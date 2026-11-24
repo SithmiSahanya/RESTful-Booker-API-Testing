@@ -1,0 +1,22 @@
+{
+	"id": "eabaca24-4811-4656-a41d-2ce0ee214cef",
+	"name": "RESTful Booker Environment",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "https://restful-booker.herokuapp.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-11-23T17:02:10.165Z",
+	"_postman_exported_using": "Postman/11.93.0"
+}

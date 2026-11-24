@@ -1,0 +1,18 @@
+
+# Node.js dependencies
+node_modules/
+
+# Environment and secret files
+.env
+.env.*
+
+# Debug logs
+npm-debug.log*
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
